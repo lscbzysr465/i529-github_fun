@@ -4,3 +4,4 @@ We learn how to collaborate using github.
 
 fork this repo, add some commits, and submit a pull request!
 
+**Kate was here**
