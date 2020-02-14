@@ -4,8 +4,8 @@ We learn how to collaborate using github.
 
 fork this repo, add some commits, and submit a pull request!
 
+**Kate was here**
 
 Is this visible?
 
 This line is added by Haoran.
-
